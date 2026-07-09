@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+qiskit
+qiskit-aer
+networkx
+dimod
+dwave-networkx
+dwave-system
+jupyter
