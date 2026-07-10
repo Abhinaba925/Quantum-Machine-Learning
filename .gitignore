@@ -9,3 +9,4 @@ env/
 
 .jupyter/
 *.log
+vqc_checkpoint.npz
