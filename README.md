@@ -352,12 +352,3 @@ jupyter notebook
   SPSA steps.
 - D-Wave notebook sections may require configured D-Wave Ocean credentials.
 
-## Future Improvements
-
-- Add automated notebook execution checks with `nbmake` or `papermill`.
-- Export selected notebook plots into versioned `assets/` images.
-- Add environment files for CPU-only and quantum-hardware-backed workflows.
-- Add a larger VQC ablation study for readout choice, layer count, and shot
-  budget.
-- Modernize older Qiskit imports in the SWAP test notebook for current Qiskit
-  releases.
